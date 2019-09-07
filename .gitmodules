@@ -1,0 +1,9 @@
+[submodule "workspace/sources/meta-raspberrypi"]
+	path = workspace/sources/meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi.git
+[submodule "workspace/sources/poky"]
+	path = workspace/sources/poky
+	url = git://git.yoctoproject.org/poky.git
+[submodule "workspace/sources/meta-openembedded"]
+	path = workspace/sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
