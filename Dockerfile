@@ -42,4 +42,3 @@ COPY . /opt/yocto
 WORKDIR /opt/yocto/workspace
 
 RUN /bin/bash
-
