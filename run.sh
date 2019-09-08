@@ -13,5 +13,5 @@ if [ -z "$1" ]; then
     echo "Please give docker image name"
     usage
 else
-    docker run --rm -it yocto-docker
+    docker run --rm -it "$1"
 fi
